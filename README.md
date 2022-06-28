@@ -22,7 +22,7 @@ expo init --template tabs <project-name>
 
 ## `expo init` options
 
-|           option            |                         description                          |
+|           OPTION            |                         DESCRIPTION                          |
 | :-------------------------: | :----------------------------------------------------------: |
 | `-t`, `--template` `[name]` |               specify your project's template                |
 |           `--npm`           |    if Yarn isn't installed, install dependencies with NPM    |
