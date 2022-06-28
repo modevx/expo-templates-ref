@@ -22,6 +22,11 @@ expo init --template tabs <project-name>
 
 ## `expo init` options
 
-|           option            |           description           |
-| :-------------------------: | :-----------------------------: |
-| `-t`, `--template` `[name]` | specify your project's template |
+|           option            |                         description                          |
+| :-------------------------: | :----------------------------------------------------------: |
+| `-t`, `--template` `[name]` |               specify your project's template                |
+|           `--npm`           |    if Yarn isn't installed, install dependencies with NPM    |
+|          `--yarn`           |               use Yarn to install dependencies               |
+|       `--no-install`        |                   skip installing packages                   |
+|       `--name [name]`       |              app name displayed on home screen               |
+|           `--yes`           | use default options (same as `expo init . --template black`) |
