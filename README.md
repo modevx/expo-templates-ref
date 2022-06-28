@@ -22,6 +22,6 @@ expo init --template tabs <project-name>
 
 ## `expo init` options
 
-| :---: | :---: |
-| option | description |
+|           option            |           description           |
+| :-------------------------: | :-----------------------------: |
 | `-t`, `--template` `[name]` | specify your project's template |
